@@ -1,3 +1,3 @@
 # 100DaysofCode 
 
-first day
+first day of code
